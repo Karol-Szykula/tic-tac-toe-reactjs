@@ -1,5 +1,5 @@
 This project was created as a homewrok of a programming course in infoShare Academy.
-The project is available on address tic-tac-toe.karol-szykula.surge.sh
+The project is available on address [tic-tac-toe.karol-szykula.surge.sh](tic-tac-toe.karol-szykula.surge.sh)
 
 ## Available Scripts
 
