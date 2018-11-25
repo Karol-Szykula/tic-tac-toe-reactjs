@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created as a homewrok of a programming course in infoShare Academy.
+The project is available on address tic-tac-toe.karol-szykula.surge.sh
 
 ## Available Scripts
 
